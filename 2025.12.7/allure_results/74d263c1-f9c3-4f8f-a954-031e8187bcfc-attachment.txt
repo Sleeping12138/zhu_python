@@ -1,0 +1,5 @@
+[32mINFO    [0m tests:logger_util.py:75 测试会话开始
+[32mINFO    [0m user:logger_util.py:75 开始执行用户类测试
+[32mINFO    [0m user:logger_util.py:75 开始执行用户登录测试
+[32mINFO    [0m user:logger_util.py:75 结束执行用户类测试
+[32mINFO    [0m tests:logger_util.py:75 测试会话结束
